@@ -1,0 +1,10 @@
+name = "RandCRM"
+uuid = "6c448246-eb09-5d7a-a8fe-dedff07c8a53"
+authors = ["Pedro Antônio Testoni Junior <juninhotestoni@gmail.com> and contributors"]
+version = "0.1.0"
+
+[workspace]
+projects = ["test", "docs"]
+
+[compat]
+julia = "1.10"

@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+Authors: Pedro Antônio Testoni Junior <juninhotestoni@gmail.com> and contributors
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: Pedro Antônio Testoni Junior
+PackageName: RandCRM
+PackageOwner: pedro.testoni
+PackageUUID: 6c448246-eb09-5d7a-a8fe-dedff07c8a53
+StrategyConfirmIncluded: false
+StrategyLevel: 1
+StrategyReviewExcluded: false
+_src_path: /home/juninhotestoni/.julia/packages/BestieTemplate/MPEqY
